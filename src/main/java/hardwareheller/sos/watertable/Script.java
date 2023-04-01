@@ -1,4 +1,4 @@
-package hardwareheller;
+package hardwareheller.sos.watertable;
 
 import script.SCRIPT;
 

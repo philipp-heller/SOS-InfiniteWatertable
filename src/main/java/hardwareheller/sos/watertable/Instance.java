@@ -1,4 +1,4 @@
-package hardwareheller;
+package hardwareheller.sos.watertable;
 
 import java.lang.reflect.Field;
 
